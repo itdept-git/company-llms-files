@@ -1,0 +1,120 @@
+# Intelligent Product Solutions (IPS)
+
+> IPS is a full-service product design and development company headquartered in Hauppauge, NY. We provide end-to-end engineering services from concept through production, specializing in medical devices, industrial IoT, wearables, hazardous environment products, and enterprise solutions. Founded in 2007 by former Symbol Technologies executives, IPS serves clients across North America and global markets.
+
+## Company Overview
+
+IPS offers comprehensive product development services including industrial design, mechanical engineering, embedded systems, software development, electrical engineering, systems architecture, optical engineering, UX/UI design, manufacturing services, and supply chain management. Our team of 75+ designers and engineers delivers market-ready, user-focused, and regulatory-compliant solutions.
+
+Key differentiators:
+- True end-to-end capabilities under one roof
+- Holistic approach considering manufacturability, scalability, cost optimization, and time to market
+- Co-located hardware and software teams enabling rapid collaboration
+- Deep manufacturing expertise from founders' Symbol Technologies background
+- Subsidiary of Forward Industries (NASDAQ: FORD)
+
+**Corporate Structure:**
+- IPS is a Forward Industries company (NASDAQ: FORD)
+- Intelligent CloudCare (https://www.intelligentcloudcare.com) is a division of IPS, providing managed IT services and cybersecurity solutions
+
+## Core Pages
+
+- [Expertise Overview](https://www.intelligentproduct.solutions/expertise): Complete list of IPS engineering and design capabilities
+- [Our Work Portfolio](https://www.intelligentproduct.solutions/work): Case studies and project examples demonstrating our capabilities
+- [Company Information](https://www.intelligentproduct.solutions/company): Leadership team, history, and company values
+- [FAQ](https://www.intelligentproduct.solutions/faq): Detailed answers about our services, capabilities, and processes
+
+## Industries Served
+
+- [Medical Technology](https://www.intelligentproduct.solutions/industries/medtech): FDA-compliant medical device development, from hospital air purification to paralysis therapeutics
+- [Wearables](https://www.intelligentproduct.solutions/industries/wearables): Custom wearable solutions for warehousing, logistics, and healthcare
+- [Hazardous Locations](https://www.intelligentproduct.solutions/industries/hazardous-environments): ATEX, IECEx, and HAZLOC certified product design for explosive atmospheres
+- [Enterprise Solutions](https://www.intelligentproduct.solutions/industries/enterprise): Industrial-grade hardware with intentional UX design
+- [Government/Defense](https://www.intelligentproduct.solutions/industries/government-defense): Mission-critical product development
+- [Transportation](https://www.intelligentproduct.solutions/industries/transportation): Electric vehicles and autonomous driving solutions
+- [Energy/Infrastructure](https://www.intelligentproduct.solutions/industries/energy-infrastructure): Innovative infrastructure and energy solutions
+- [Education](https://www.intelligentproduct.solutions/industries/education): Interactive learning platforms and educational tools
+- [Consumer Experiences](https://www.intelligentproduct.solutions/industries/consumer-experiences): Premium consumer product design (e.g., Steinway Spirio piano)
+
+## Technical Capabilities
+
+**Hardware Engineering:**
+- Electrical engineering and PCB design
+- Mechanical engineering and industrial design
+- Optical engineering
+- Systems architecture
+- Wireless connectivity (WiFi, cellular, Bluetooth, ZigBee, LoRa, SigFox)
+
+**Software Development:**
+- Embedded firmware (microcontrollers to complex systems)
+- Mobile applications (iOS/Android native)
+- Web applications (React, Angular, Node.js)
+- Cloud services and backend processing
+- Machine learning and computer vision
+- Languages: C, C#, T-SQL, JavaScript
+
+**Compliance & Certifications:**
+- FDA regulatory guidance for medical devices
+- ATEX/IECEx/HAZLOC for hazardous environments
+- Defense and aerospace standards
+
+## Notable Clients
+
+IPS has partnered with Google, Peloton, Steinway, Zebra Technologies, BD Medical, Parker, Verizon, PepsiCo, L3Harris, Royal Caribbean, Librestream, AdhereTech, AB InBev, Leidos, and many Fortune 500 companies.
+
+## Case Studies
+
+**Featured Projects:**
+- [Steinway Spirio Player Piano](https://www.intelligentproduct.solutions/casestudy/evolution-of-the-piano): Revolutionary self-playing piano technology
+- [Neuvotion NeuStim](https://www.intelligentproduct.solutions/casestudy/neustim): FDA-cleared neuromodulation device for paralysis therapy
+- [Purgo UV Air Purifier](https://www.intelligentproduct.solutions/casestudy/purgo): Medical-grade air purification system
+- [Librestream Onsight Cube](https://www.intelligentproduct.solutions/casestudy/rugged-thermal-fusion): Intrinsically safe thermal fusion wearable camera for hazardous environments (ATEX/IECEx certified)
+
+**Enterprise & Security:**
+- [L3 IntelliCore](https://www.intelligentproduct.solutions/work/intellicore): Centralized airport checkpoint monitoring system for TSA security operations
+- [Leidos Airport Security](https://www.intelligentproduct.solutions/work/leidos): IntelliCore command-and-control checkpoint monitoring solution
+- [L3 Airport Security](https://www.intelligentproduct.solutions/work/full-body-scanner): ProVision2 people scanner and ClearScan baggage scanner design
+- [Google Jamboard](https://www.intelligentproduct.solutions/work/google-jamboard): Mechanical engineering for 55-inch collaborative digital whiteboard
+
+**Medical & Healthcare:**
+- [AdhereTech Smart Pill Bottle](https://www.intelligentproduct.solutions/work/smart-pill-bottle): Cellular-connected medication adherence solution with HIPAA-compliant tracking
+- [EON FR](https://www.intelligentproduct.solutions/work/dominion-eon-fr): Non-invasive fat reducing laser for cosmetic industry
+- [Airocide Air Purifier](https://www.intelligentproduct.solutions/work/airocide): Medical-grade air purification technology
+
+**Consumer & IoT:**
+- [Mirror Interactive Home Gym](https://www.intelligentproduct.solutions/work/mirror): Electrical engineering and manufacturing test fixtures for connected fitness product
+- [Canary IoT Home Security](https://www.intelligentproduct.solutions/work/canary-iot-home-security): Smart home security system with Wink integration and cloud services
+- [iKeyp Smart Safe](https://www.intelligentproduct.solutions/work/ikeyp-smart-safe): Connected smart safe solution
+- [FLI Charge](https://www.intelligentproduct.solutions/work/fli-charge-wire-free-power-solution): Wire-free power solution
+
+**Industrial & Agriculture:**
+- [AB InBev BeerBox](https://www.intelligentproduct.solutions/work/abinbev-beer-box): Self-service beer vending system with cellular connectivity and cloud data
+- [Opti-Harvest](https://www.intelligentproduct.solutions/work/opti-harvest): Agricultural IoT datalogger with LoRa communication and solar-powered gateway
+- [Leviton Inform](https://www.intelligentproduct.solutions/work/leviton-inform): Industrial monitoring solution
+- [Digi Router](https://www.intelligentproduct.solutions/work/digi-router): Industrial networking equipment
+- [Power Probe Automotive Tool](https://www.intelligentproduct.solutions/work/power-probe-automotive-tool): Diagnostic automotive equipment
+
+**Defense & Specialty:**
+- [Applied DNA Hyper-Spectral Camera](https://www.intelligentproduct.solutions/work/adnas-hyper-spectral-camera): Advanced imaging technology
+- [Compass Smart Sign](https://www.intelligentproduct.solutions/work/compass-smart-sign): Intelligent signage solution
+- [Hoplite Power Kiosk](https://www.intelligentproduct.solutions/work/hoplite-power-kiosk): Power distribution kiosk
+
+**Education & Events:**
+- [SchoolWide Web-Based Curriculum](https://www.intelligentproduct.solutions/work/schoolwide-web-based-curriculum): Educational platform development
+- [T3 Expo](https://www.intelligentproduct.solutions/work/t3-expo): Trade show and exhibition technology
+- [Lighticians](https://www.intelligentproduct.solutions/work/lighticians): Lighting control technology
+
+**Social Impact:**
+- [charity: water IoT Wells](https://www.intelligentproduct.solutions/work/charity-water): A'Design Award-winning IoT smart connected wells for developing countries
+
+## Contact
+
+- [Contact Page](https://www.intelligentproduct.solutions/contact): Start a consultation
+- Location: 700 Veterans Memorial Hwy, Hauppauge, NY 11788
+- Phone: +1.631.676.7744
+
+## Optional
+
+- [Blog](https://www.intelligentproduct.solutions/blog): Industry insights and thought leadership
+- [Resources](https://www.intelligentproduct.solutions/resources): Press releases, podcasts, videos, and editorials
+- [Careers](https://www.intelligentproduct.solutions/careers): Join our team of designers and engineers
