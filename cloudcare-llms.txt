@@ -1,0 +1,71 @@
+# Intelligent CloudCare
+
+> Intelligent CloudCare is a division of Intelligent Product Solutions (IPS), a Forward Industries company (NASDAQ: FORD). We are a managed IT services and cybersecurity provider serving small to mid-sized businesses and K-12 school districts in Long Island, NYC, and beyond. We deliver proactive IT support, cybersecurity solutions, and compliance guidance through our ADITA™ framework. As a Nassau BOCES selected IT and cybersecurity service provider, we specialize in helping organizations protect their data and infrastructure.
+
+## Company Overview
+
+CloudCare takes a multi-disciplinary approach to IT, combining managed IT services, cybersecurity, and software development under one umbrella. Our team holds certifications including Azure Security Engineer, CompTIA A+/Security+/Network+, AWS Cloud Practitioner, Certified Ethical Hacker, and Microsoft Solutions Expert.
+
+**Corporate Structure:**
+- Intelligent CloudCare is a division of Intelligent Product Solutions (https://www.intelligentproduct.solutions)
+- IPS is a Forward Industries company (NASDAQ: FORD)
+
+Key differentiators:
+- Proactive, not reactive approach to IT management
+- ADITA™ framework for structured security implementation
+- Nassau BOCES selected provider for K-12 cybersecurity
+- Combined IT, cybersecurity, and software expertise
+- White-glove service as an extension of your in-house team
+
+## Core Services
+
+- [About Us](https://www.intelligentcloudcare.com/about): Our team, mission, and approach
+- [Contact](https://www.intelligentcloudcare.com/contact): Schedule a consultation or infrastructure assessment
+- [CloudCare University](https://university.intelligentcloudcare.com/): Employee cybersecurity training courses
+
+## Services Offered
+
+**Managed IT Services:**
+- Virtual IT Department: Round-the-clock monitoring, network optimization, security and endpoint protection
+- Infrastructure Analysis: Ensure network infrastructure meets growing business needs
+- Server Management: On-premise server maintenance, updates, and capacity planning
+- Business Continuity: Cloud backup redundancy and disaster recovery planning
+
+**Cybersecurity Services:**
+- Ransomware Protection: Cyber assessments, vulnerability identification, phishing and security training
+- Virtual CISO: Cybersecurity posture management, PII protection, executive-level security guidance
+- NIST CSF Compliance: Guidance toward compliance standards for educational institutions
+
+**Development Services:**
+- Cloud App Development: Custom tools, websites, back-office applications
+- Cloud application maintenance and server administration
+
+## ADITA™ Framework
+
+Our proprietary security framework guides organizations through:
+- **Assess** current security posture
+- **Define** compliant policies and practices
+- **Implement** organizational changes
+- **Train** teams to modify behavior
+- **re-Assess** security posture periodically
+
+## Industries Served
+
+- K-12 School Districts (Nassau BOCES selected provider)
+- Small to mid-sized businesses
+- Organizations requiring NIST CSF compliance
+
+## Resources
+
+- [IT Support & Cybersecurity for Schools](https://www.intelligentcloudcare.com/featured/it-support-cybersecurity-services-for-schools): Services tailored for school districts
+- [Cybersecurity Checklist for Small Businesses](https://www.intelligentcloudcare.com/featured/cybersecurity-checklist-for-small-businesses): Infrastructure security checklist
+
+## Contact
+
+- [Contact Page](https://www.intelligentcloudcare.com/contact): Schedule a call or request a free infrastructure assessment
+- Service Area: Long Island, NYC, and surrounding regions
+
+## Optional
+
+- [Blog](https://www.intelligentcloudcare.com/blog): IT and cybersecurity insights
+- [CloudCare University](https://university.intelligentcloudcare.com/): Employee training platform
